@@ -24,9 +24,9 @@
 
 ***
 
- **Mysterious Room Escape** é um jogo com gráficos 8-bits (MonoChrome) de curta duração, seu objetivo é escapar da sala na qual se encontra interagindo com o ambiente e resolvendo puzzles. O jogo possui dois finais distinos.
+# História:
 
-**História:** Você acorda em uma sala misteriosa. É necessário sair dali. Mas, pelo bem de sua sanidade metal, você também quer saber o MOTIVO de estar lá. Será que você é capaz de escapar e descobrir a verdade. 
+ **Mysterious Room Escape** é um jogo com gráficos 8-bits (MonoChrome) de curta duração, seu objetivo principal é escapar da sala na qual se encontra interagindo com o ambiente e resolvendo vários puzzles. E pelo bem de sua sanidade metal, você também quer saber o MOTIVO de estar lá. O jogo possui dois finais distintos dependendo da pista obtidas durante suas investigações.
 
 # Screenshoot do Game
 
