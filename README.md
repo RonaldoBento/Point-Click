@@ -13,7 +13,7 @@
     <li><strong>Design e Characters & Scenario: </strong>Okami Amaterasu & Ronaldo R. Bento</li>
     <li><strong>Roteiro original:</strong> Bento </li>
     <li><strong>Idioma:</strong> Português Brasileiro</li>
-    <li><strong>Faixa Etária:</strong> Maiores de 12 anos</li>
+    <li><strong>Faixa Etária:</strong> Maiores de 13 anos</li>
     <li><storng>Precisa de RTP?</strong> Não</li>
     <li><strong>Início do projeto:</strong> 27/11/2022</li>
     <li><strong>Lançamento do projeto:</strong> 10/01/2023</li>
